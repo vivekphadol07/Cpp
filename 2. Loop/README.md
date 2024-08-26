@@ -2,10 +2,11 @@
 
 ## 1. for Loop
 - **Syntax**    
+             
     for( initialisation ; condition ; updation ){
       
             // some work
-    }
+    }        
 
 ## 2. while Loop
 - **Syntax**    
@@ -17,7 +18,8 @@
     }
 
 ## 3. do while Loop
-- **Syntax**    
+- **Syntax**
+            
       do{
 
               //do some work
