@@ -2,20 +2,20 @@
 
 ## 1. if-else Statement
 - **Syntax**    
-  if(condition){    
+  if (condition) {    
       // some work if condition is true    
   }    
     
-  else{  
+  else {  
       // some work if the condition is false  
   }  
 
 ## 2. else-if Statement  
   - **Syntax**        
-  if(condition 1){      
+  if (condition 1 ) {      
       // some work if condition is true  
   }
-  else if(condition 2){    
+  else if (condition 2) {    
      // some work if the condition 1 is false and condition 2 is true    
   }  
   else{    
@@ -24,7 +24,7 @@
 
 ## 3. Switch Statement    
 - **Syntax**    
-    switch(){    
+    switch() {    
           case 1:    
               //some work    
               break;    
