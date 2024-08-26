@@ -1,14 +1,14 @@
 # Loop
 
 ## 1. for Loop
-- **Syntax**
+- **Syntax**    
     for( initialisation ; condition ; updation ){
       
             // some work
     }
 
 ## 2. while Loop
-- **Syntax**
+- **Syntax**    
     // initialisation
     while ( condition ){  
           
