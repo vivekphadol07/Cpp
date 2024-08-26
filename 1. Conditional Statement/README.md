@@ -6,8 +6,8 @@
     // some work if condition is true    
   }    
     
-  else{
-    // some work if the condition is false
+  else{  
+    // some work if the condition is false  
   }  
 
   ## 2. else-if Statement  
