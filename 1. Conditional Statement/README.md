@@ -3,11 +3,11 @@
 ## 1. if-else Statement
 - **Syntax**    
   if(condition){    
-    // some work if condition is true    
+      // some work if condition is true    
   }    
     
   else{  
-    // some work if the condition is false  
+      // some work if the condition is false  
   }  
 
   ## 2. else-if Statement  
