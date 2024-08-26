@@ -9,7 +9,7 @@
 
 ## 2. while Loop
 - **Syntax**    
-    // initialisation
+    // initialisation    
     while ( condition ){  
           
         //Updation  
@@ -17,7 +17,7 @@
     }
 
 ## 3. do while Loop
-- **Syntax**
+- **Syntax**    
       do{
 
               //do some work
