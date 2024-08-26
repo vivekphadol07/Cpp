@@ -4,8 +4,7 @@
 - **Syntax**    
   if (condition) {    
       // some work if condition is true    
-  }    
-    
+  }      
   else {  
       // some work if the condition is false  
   }  
