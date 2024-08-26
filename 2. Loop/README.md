@@ -14,4 +14,15 @@
           
         //Updation  
 
-    }    
+    }
+
+## 3. do while Loop
+- **Syntax**
+      do{
+
+              //do some work
+
+      } while( condition );
+
+
+  
