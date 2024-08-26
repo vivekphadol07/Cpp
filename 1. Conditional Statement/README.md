@@ -13,7 +13,7 @@
 ## 2. else-if Statement  
   - **Syntax**        
   if (condition 1 ) {      
-      // some work if condition is true  
+              // some work if condition is true  
   }
   else if (condition 2) {    
      // some work if the condition 1 is false and condition 2 is true    
