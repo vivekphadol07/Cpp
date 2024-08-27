@@ -26,6 +26,14 @@
               //do some work
 
       } while( condition );
-
-
   
+## 4. Break Statement    
+- To exit the loop.      
+
+## 5. Continue Statement    
+- to skip an iteration    
+
+## 6. Nested Loop    
+- Loop inside Loop    
+- **Outer loop:** No. of rows.  
+- **Inner loop:** No. of columns  
