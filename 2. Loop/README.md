@@ -1,23 +1,23 @@
 # Loop
 
 ## 1. for Loop
-- **Syntax**  
-                  
+- **Syntax**                      
+                                                      
     for( initialisation ; condition ; updation ){
       
             // some work
-    }                
-      
+    }                          
+                
 ## 2. while Loop
 - **Syntax**      
-                     
+                                                   
     // initialisation    
     while ( condition ){  
           
         //Updation  
 
-    }              
-          
+    }                      
+                                
 ## 3. do while Loop
 - **Syntax**
             
