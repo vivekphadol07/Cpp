@@ -58,8 +58,7 @@
                         }  
                   return -1 ; // No valid Index for give key  
 
-- Time Complexity: O( log n )  
+- Time Complexity: O( log n )    
 
-## Arrays As pointers
 
   
