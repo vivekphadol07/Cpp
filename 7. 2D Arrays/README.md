@@ -1,4 +1,4 @@
-# 7. 2D Arrays  
+# 2D Arrays  
 - int arr[row][column] = { {row1} , {row2} }    
 
 ##Input and output 2D Arrays :   
