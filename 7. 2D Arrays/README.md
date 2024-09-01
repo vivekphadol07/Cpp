@@ -8,7 +8,7 @@
                 cin>>arr[i][j];     
                 cout>>arr[i][j];    
 
-##Memory :
+## Memory :
 - A 2D arrays is represented as a contiguous block of memory cells(linearly).   
 - Consider a matrix[3][3]     
     1 2 3       
@@ -24,7 +24,7 @@
 ## Matrix Pointer :     
 - 2D arrays name behaves as a row Pointer.      
 
-- **Passing Matrix Pointer to functions     
+- **Passing Matrix Pointer to functions :**     
     function_name( int (*ptr)[4] ) // we pass the row pointer   
     function_name( int mat[][4]  ) // we pass the row pointer   
 
